@@ -1,5 +1,6 @@
 # cs360_inventoryApp_FINAL
 - Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?\
+<br/>
 The original goal was to create a task tracking application, not unlike a to-do list. However, It was changed to be an inventory management application instead. The reason for this was personally I thought it would be better suited on my GitHub and on a resume. The whole goal is to allow users to manage an inventory of items by quanity and prices and be notified via SMS when any items are running low in stock.
 - What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?\
 Firstly, a login page was needed so that users can register and login to the application. Once a user has logged in, they will be greeting by the main inventory page which will display all of their items, their quantities, and their prices accordingly. A third page was added for users to manage item catagories, but in hindsight I feel it was not really necessary to add. The designs were successful in my opinion because of the streamlined approach which allowed for users to seamlessly navigate and utilize the app.
